@@ -1,7 +1,7 @@
 # React Redux Starter Kit.
 This is a very simple react redux starter kit with redux thunk.
 
-here we have 3 branches.
+here you have 4 branches.
 - Master brach with react class component and scss.
 - Tailwind branch with react class component.
 - Functional brach with react functional component and scss.
